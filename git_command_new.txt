@@ -7,3 +7,5 @@
 7. git remote -v
 8. git remote set-url https://PAT@github.com/githubrepolink
 9. git push origin master (apni files push karne ke liye)
+
+this is some new changes!
