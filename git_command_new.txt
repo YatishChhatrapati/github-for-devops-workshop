@@ -1,0 +1,9 @@
+1. git init
+2. git status
+3. git add
+4. git commit -m
+5. git restore
+6. git remote add origin <GitHub url>
+7. git remote -v
+8. git remote set-url https://PAT@github.com/githubrepolink
+9. git push origin master (apni files push karne ke liye)
